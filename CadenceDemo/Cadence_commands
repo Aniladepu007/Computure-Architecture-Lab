@@ -1,0 +1,15 @@
+////////////////GENUS Commands//////////////
+1. Goto Work directory where cshrc file placed (normally in Desktop work folder - PATH : /home/user_name/Desktop/work)
+
+2. Open terminal in the work directory
+
+3. Type following commands to invoke cadence tools
+	i) csh
+	ii)genus -legacy_ui
+	iii)source /home/user_name/Desktop/work/roll_number/....rc_script.tcl
+
+4. Edit .tcl file according to the design folder name and path (refer Synthesis_Genus.pdf for .tcl and .sdc commands)
+/////////////////////////////////////////////////////////
+
+
+
